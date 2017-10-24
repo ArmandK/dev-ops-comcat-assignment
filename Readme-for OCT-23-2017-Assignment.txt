@@ -1,3 +1,5 @@
+I am using my own AWS services to do this assignment
+
 --Create a user called 'comcast' with admin privileges.  The ACCOUNT ID : 794768789958
 --Create an AWS instance (comcast_test) that a user called 'comcast' can login with a pem key.
 --This user will have admin access to the instance	
